@@ -1,0 +1,18 @@
+client + new client = client
+newrequirement + requirement = requirement
+newprofile 
+joine + profile in process + waiting for offer + waiting to join + rejected profile = profile 
+invoice generated + invoce paid  = invoice 
+newinvoive 
+----------------------------
+	List of components 
+		client
+		requirement
+		newprofile
+		profile
+		newinvoive
+		invoice
+---------------------------------------------
+
+
+
